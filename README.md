@@ -53,6 +53,6 @@ This is a correlated subquery because the inner query uses a value from the oute
 Learning Outcome:
 After completing this task, we should be able to:
 
-Understand the difference between scalar, correlated, and derived subqueries
-Know when to use subqueries with IN, EXISTS, or = comparisons
-Build complex SQL logic by combining multiple query layers
+-->Understand the difference between scalar, correlated, and derived subqueries
+-->Know when to use subqueries with IN, EXISTS, or = comparisons
+-->Build complex SQL logic by combining multiple query layers
